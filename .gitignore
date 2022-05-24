@@ -10,3 +10,5 @@ coverage
 *.log
 
 files/
+
+.emilien/
